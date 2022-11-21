@@ -16,7 +16,7 @@
   <repositories>
     <repository>
       <id>github</id>
-      <url>https://maven.pkg.github.com/OWNER/REPOSITORY</url>
+      <url>https://maven.pkg.github.com/smocken78/stopwatch</url>
       <snapshots>
          <enabled>true</enabled>
       </snapshots>
@@ -26,8 +26,8 @@
   <distributionManagement>
     <repository>
       <id>github</id>
-      <name>GitHub OWNER Apache Maven Packages</name>
-      <url>https://maven.pkg.github.com/OWNER/REPOSITORY</url>
+      <name>Simple Stopwatch</name>
+      <url>https://maven.pkg.github.com/smocken78/stopwatch</url>
     </repository>
   </distributionManagement>
 
