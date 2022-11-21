@@ -16,10 +16,7 @@
   <repositories>
     <repository>
       <id>github</id>
-      <url>https://maven.pkg.github.com/smocken78/stopwatch</url>
-      <snapshots>
-         <enabled>true</enabled>
-      </snapshots>
+      <url>https://maven.pkg.github.com/smocken78/stopwatch/main</url>
     </repository>
   </repositories>
 
@@ -27,7 +24,7 @@
     <repository>
       <id>github</id>
       <name>Simple Stopwatch</name>
-      <url>https://maven.pkg.github.com/smocken78/stopwatch</url>
+      <url>https://maven.pkg.github.com/smocken78/stopwatch/target/main</url>
     </repository>
   </distributionManagement>
 
